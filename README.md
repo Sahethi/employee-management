@@ -1,7 +1,7 @@
 
 # Employee Management
 
-A simple employee management system based on Java, build with the help of NetBeans IDE 12.4. This project uses the Java Swing Library along with AWT (Abstract Window Toolkit), JDBC (Java Database Connectivity) API and uses MySQL as database.
+A simple employee management system based on Java, build with the help of NetBeans IDE 12.4. This project uses the Java Swing Library along with AWT (Abstract Window Toolkit), JDBC (Java Database Connectivity) API and uses MySQL as database to perform basic CRUD operations.
 
 ## Tech Stack
 
@@ -34,7 +34,7 @@ cd employee-management
 
     ![User Schema](assets/userschema.PNG)
     * **employees** Table Schema
-    
+
     ![Employees Schema](assets/employeesschema.PNG)
 * After setting up, open NetBeans Project. Expand the project and right click on the **Libraries** folder and click on **Add JAR/Folder**. 
     * Navigate to **employee-management** > **jar** and add your .jar files as dependencies to the project. Files you would need.
