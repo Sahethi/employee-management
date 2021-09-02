@@ -63,7 +63,10 @@ cd employee-management
 * [Java Docs](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
 * [phpMyAdmin - MySQL](https://www.youtube.com/watch?v=IV6vGuHcQy8) 
 
-
 ## Authors
 
 - [@Sahethi](https://www.github.com/Sahethi)
+
+## License
+
+* [GNU](https://github.com/Sahethi/employee-management/blob/main/LICENSE)
