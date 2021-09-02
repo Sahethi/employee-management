@@ -31,8 +31,10 @@ cd employee-management
     * This should open phpMyAdmin page. You now have to create a database, click on the **new** button on the left menu, this will open Databases page, enter your database name and click create. For this project database name is **employee_mgmt**.
     * **employee_mgmt** database will have 2 tables with the following schemas.
     * **user** Table Schema
+
     ![User Schema](assets/userschema.PNG)
     * **employees** Table Schema
+    
     ![Employees Schema](assets/employeesschema.PNG)
 * After setting up, open NetBeans Project. Expand the project and right click on the **Libraries** folder and click on **Add JAR/Folder**. 
     * Navigate to **employee-management** > **jar** and add your .jar files as dependencies to the project. Files you would need.
@@ -45,10 +47,15 @@ cd employee-management
 ## Prerequisites
 
 * Login Module.
+
+
     ![Login Module](assets/Login.PNG)
 * Unsuccessful Login will display this error message.
+
+
     ![Unsuccessful Login Message](assets/unsuccessfulLogin.PNG)
 * Employee Module after successful login.
+
     ![Employees Module](assets/EmployeeDetails.PNG)
 
 ## References
