@@ -17,9 +17,9 @@ import javax.swing.JOptionPane;
  * @author sweet
  */
 public class MySQLConnect {
-    private static final String CONNECTION_STRING = "jdbc:mysql://localhost:3306/employee_mgmt";
-    private static final String USERNAME = "sahethi";
-    private static final String PASSWORD = "sahethi";
+    private static final String CONNECTION_STRING = "jdbc:mysql://localhost:3307/employee_mgmt";
+    private static final String USERNAME = "root";
+    private static final String PASSWORD = "";
     
     /**
      * 
