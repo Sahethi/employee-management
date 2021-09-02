@@ -45,11 +45,11 @@ cd employee-management
 ## Prerequisites
 
 * Login Module.
-![Login Module](assets/Login.PNG)
+    ![Login Module](assets/Login.PNG)
 * Unsuccessful Login will display this error message.
-![Unsuccessful Login Message](assets/unsuccessfulLogin.PNG)
+    ![Unsuccessful Login Message](assets/unsuccessfulLogin.PNG)
 * Employee Module after successful login.
-![Employees Module](assets/EmployeeDetails.PNG)
+    ![Employees Module](assets/EmployeeDetails.PNG)
 
 ## References
 
